@@ -12,6 +12,8 @@
 **Agent File** is an iOS app for people preparing for a career with the FBI. Every day it generates a new investigation with AI, and it also includes real federal case studies, interview prep and a live federal job board.
 
 <img src="https://img.shields.io/badge/iOS-0a0e23?style=for-the-badge&logo=apple&logoColor=d9b25f" alt="iOS" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0a0e23?style=for-the-badge&logo=swift&logoColor=d9b25f" alt="SwiftUI" />
 <img src="https://img.shields.io/badge/Claude_AI-b48c3c?style=for-the-badge&logo=claude&logoColor=0a0e23" alt="Claude AI" />
 <img src="https://img.shields.io/badge/USAJOBS.gov-0a0e23?style=for-the-badge&logoColor=d9b25f" alt="USAJOBS.gov" />
 <img src="https://img.shields.io/badge/Live_Activities-b48c3c?style=for-the-badge&logo=apple&logoColor=0a0e23" alt="Live Activities" />
@@ -153,7 +155,7 @@ Your API key and profile data are stored only on your device. Read the full [pri
 
 Questions, issues or feedback: [josueldinhoo@gmail.com](mailto:josueldinhoo@gmail.com). Replies usually arrive within 24–48 hours.
 
-This repository hosts the app's support page ([`index.html`](index.html)).
+This repository hosts the app's support page ([`index.html`](index.html)). The app itself is built with Swift and SwiftUI, with SwiftData for storage and WidgetKit and ActivityKit for the widget and Live Activities; its source code lives in a separate private repository.
 
 <br/>
 
